@@ -8,6 +8,6 @@ Enumera cualquier requisito previo necesario para utilizar o contribuir al proye
 
 
 <video controls>
-  <source src="/1.3 MNIST (keras) - CAPTUM/Integrated.mp4" type="video/mp4">
+  <source src="1.3 MNIST (keras) - CAPTUM/Integrated.mp4" type="video/mp4">
   Tu navegador no admite la reproducción de videos.
 </video>
